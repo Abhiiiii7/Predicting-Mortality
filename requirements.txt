@@ -1,0 +1,11 @@
+# Core
+pandas
+numpy
+
+# Modeling
+scikit-learn
+xgboost
+
+# Visualization (optional)
+matplotlib
+seaborn
